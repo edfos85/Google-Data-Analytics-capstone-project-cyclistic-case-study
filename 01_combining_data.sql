@@ -1,5 +1,7 @@
 --combine data from Jan to Dec 2022 into a single table named cyclistic_data
-
+create table `calm-rainfall-415600.cyclistic_data.cyclistic_2022_prepare` as (
+  select * from `calm-rainfall-415600.cyclistic_data.2022_divvy_trip_data_jan`
+  union all
   SELECT * FROM `calm-rainfall-415600.cyclistic_data.feb_2022` 
   UNION ALL
   SELECT * FROM `calm-rainfall-415600.cyclistic_data.march_2022` 
@@ -20,8 +22,7 @@
   UNION ALL
   SELECT * FROM `calm-rainfall-415600.cyclistic_data.nov_2022` 
   UNION ALL
-  SELECT * FROM `calm-rainfall-415600.cyclistic_data.dec_2022`
-  As cyclistic_2022
+  SELECT * FROM `calm-rainfall-415600.cyclistic_data.dec_2022`)
 
 WHERE 
   start_station_name is not null
