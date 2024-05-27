@@ -81,15 +81,12 @@ The analysis question is: How do annual members and casual riders use Cyclistic 
 First we will look at Total Rides in 2022.
 The chart below show total number of rides carried out by Cyclistic and Casual riders in 2022.
 
+![image](https://github.com/edfos85/images/blob/c618bf1a8760573c5f7e35f5f328f0c575d15f4e/Membership%20Types.png)
 
 
 
 
-
-
-
-
-You can see **Cyclistic Members** accounted for the majority of rides with a percentage of 
+You can see **Cyclistic Members** accounted for the majority of rides with a percentage of 59.4% of total rides in comparison to casual rides at 40.6%.
 
 #**Types of Bikes used in 2022**
 -Both Cyclistic and casual members prefered classic bikes 
