@@ -29,7 +29,7 @@ length(ride_id);
 
 --2) rideable_type: determine the type of bikes
 select
-rideable_type
+rideable_type, count(rideable_type) as no_of_trips
 from
 `calm-rainfall-415600.cyclistic_data.cyclistic_2022_prepare`
 group by
@@ -56,7 +56,7 @@ from
 `calm-rainfall-415600.cyclistic_data.cyclistic_2022_prepare`
 group by 
 start_station_name;
---a total of 816804 start_station_name with null values are determined
+--a total of 833064 start_station_name with null values are determined
 
 select
 distinct end_station_name, count(*) as end_station_count
@@ -64,7 +64,7 @@ from
 `calm-rainfall-415600.cyclistic_data.cyclistic_2022_prepare`
 group by
 end_station_name;
---a total of 874815 end_station_name with null values were found
+--a total of 892742 end_station_name with null values were found
 
 select
 distinct start_station_id, end_station_id
@@ -96,4 +96,4 @@ from
 group by
 member_casual;
 --only two types: member and casual
---total memebrship count equal to the total number of rows
+--total membership count equal to the total number of rows
