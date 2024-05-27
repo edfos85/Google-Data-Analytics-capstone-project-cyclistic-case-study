@@ -101,6 +101,8 @@ You can see **Cyclistic Members** accounted for the majority of rides with a per
 The average ride length is compared between Casual and Cyclistic members.
 
 **1. Rides taken in a month**
+![image](https://github.com/edfos85/images/blob/a59004ce782b0392edcf13371b7f07841828c75b/Trips%20taken%20in%20a%20month.png)
+
 Cyclistic members has the highest activity in August 2022.
 Casual riders highest activity is in July 2022.
 In comparison the lowest activity for both Cyclistic members and casual riders is in January 2022.
