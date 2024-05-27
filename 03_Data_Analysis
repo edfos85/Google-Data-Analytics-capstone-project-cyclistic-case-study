@@ -52,6 +52,17 @@ member_casual, day_of_week
 order by
 member_casual;
 
+--Average ride length per month
+select member_casual, Month,
+avg(ride_length_in_mins) as avg_ride_length,
+avg(avg(ride_length_in_mins)) over(partition by member_casual) as combined_avg_rider
+from
+`calm-rainfall-415600.cyclistic_data.cleaned_data`
+group by
+member_casual, Month
+order by
+member_casual;
+
 --starting location for member
 select
 member_casual, start_station_name,
