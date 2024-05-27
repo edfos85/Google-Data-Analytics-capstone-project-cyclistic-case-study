@@ -89,6 +89,8 @@ The chart below show total number of rides carried out by Cyclistic and Casual r
 You can see **Cyclistic Members** accounted for the majority of rides with a percentage of 59.4% of total rides in comparison to casual rides at 40.6%.
 
 #**Types of Bikes used in 2022**
+
+![image](https://github.com/edfos85/images/blob/0f6762450d8d62ac110dcef09fd6decd6c4b72b5/Rideable%20Type.png)
 -Both Cyclistic and casual members prefered classic bikes 
 -Electric bikes are preferred by Cyclistic member more than Casual members
 -Docked bikes are the least favourite
