@@ -98,7 +98,16 @@ You can see **Cyclistic Members** accounted for the majority of rides with a per
 
 #**Average Ride Duration**
 
-The average ride length is compared between Casual and Cyclistic members.
+**The average ride length in a week**
+Saturday and Sundays members take the longest trips.
+
+![image](https://github.com/edfos85/images/blob/3e19152cb867d5cd76d8a873ac6d3c4f3a182d6a/Avg%20ride%20length%20per%20week.png)
+
+**The average ride duration in a month**
+-Monthly highest ride duration was June for cyclistc members
+-For casual members May was the highest ride duration.
+
+![image](https://github.com/edfos85/images/blob/3e19152cb867d5cd76d8a873ac6d3c4f3a182d6a/Avg%20ride%20length%20in%20month.png)
 
 **1. Rides taken in a month**
 ![image](https://github.com/edfos85/images/blob/a59004ce782b0392edcf13371b7f07841828c75b/Trips%20taken%20in%20a%20month.png)
@@ -109,7 +118,18 @@ In comparison the lowest activity for both Cyclistic members and casual riders i
 
 
 **2.Rides taken in a week.**
+
+![image](https://github.com/edfos85/images/blob/3e19152cb867d5cd76d8a873ac6d3c4f3a182d6a/Trips%20taken%20in%20a%20week.png)
+
 1. For both riders, Saturday has the highest activity.
-2. 2. 
+
+
+**3. Rides taken in an hour**
+The line graph illustrates distinct variations in the frequency of rides per hour for both annual members and casual riders. Notably, both rider type experience peak usage at 17:00 (5 p.m.), with annual members recording 272,000 rides and casual riders with 166,000 rides during that hour. 
+Significant more annual members used these services during these peak times.
+
+![image](https://github.com/edfos85/images/blob/3e19152cb867d5cd76d8a873ac6d3c4f3a182d6a/Total%20trips%20per%20hour.png)
+
+
 
 
