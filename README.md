@@ -194,6 +194,10 @@ Significant more annual members used these services during these peak times.
 
 View Cyclistic Bike Share Dashboard
 
+
+
+![image](https://github.com/edfos85/images/blob/2395f8f1764810dd5593ba0ee5d67e86dbe6715b/Dashboard%201.png)
+
 The similarities and differences can be compared overall from the dashboard above.
 
 **Summary**
