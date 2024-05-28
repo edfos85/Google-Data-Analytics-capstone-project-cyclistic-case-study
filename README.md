@@ -211,7 +211,7 @@ The similarities and differences can be compared overall from the dashboard abov
 
 - Ride Duration: Casual riders have longer average ride durations compared to annual members.
 
-# **Strategies to convert more Casual Riders into Annual Member**
+## **Strategies to convert more Casual Riders into Annual Member**
 
 - Targeted Promotions: Offer exclusive discounts or incentives for casual riders to upgrade to annual memberships, highlighting the benefits and cost savings of long-term commitment.
 
